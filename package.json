@@ -1,0 +1,30 @@
+{
+  "name": "ai-helper-jimmy",
+  "version": "1.2.2",
+  "description": "A ai helper for web3 devs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Nidy/jimmy.git"
+  },
+  "keywords": [
+    "ai-helper"
+  ],
+  "author": "jimmy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nidy/jimmy/issues"
+  },
+  "homepage": "https://github.com/Nidy/jimmy#readme",
+  "dependencies": {
+    "async": "~0.9.0",
+      "dxf-parsing": "^0.3.7",
+      "gm": "~1.17.0",
+      "underscore": "~1.7.0",
+      "xml2js": "~0.4.4",
+      "xmlbuilder": "^2.4.3"
+  }
+}
